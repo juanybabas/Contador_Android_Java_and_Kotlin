@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contador_Kotlin</string>
+    <string name="chek_box">chek box</string>
+    <string name="valor">Valor #</string>
+    <string name="negativos">negativos</string>
+    <string name="reset">Reset</string>
+    <string name="contador">Contador</string>
+    <string name="muestra_el_conteo">Muestra el conteo</string>
+</resources>
